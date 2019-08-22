@@ -36,8 +36,4 @@ function sort(array, start, end) {  //Helper function to imlementing recursion
 
     sort(array, start, j);
     sort(array, j+1, end);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> c8131c2ee0836143aba281ce4bc747e319df643d
